@@ -1,2 +1,3 @@
 # .github
-Community health files and default repos options for @alimd;
+
+Community health files and default repos options.
