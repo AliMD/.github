@@ -52,16 +52,10 @@ Must be one of the following:
 feat(signal): support signal providers
 ```
 
-### Commit message with description and breaking change footer
+### Commit the changes that lead to breaking change
 
 ```
 feat(api): allow provided config object to extend other configs
 
 BREAKING CHANGE: `extends` key in config file is now used for extending other config files
-```
-
-### Commit message with ! to draw attention to breaking change
-
-```
-feat(api)!: send an email to the customer when a product is shipped
 ```
