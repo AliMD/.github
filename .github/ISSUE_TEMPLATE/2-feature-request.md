@@ -1,5 +1,5 @@
 ---
-name: '💡 Feature Request'
+name: '💡 Feature request'
 about: 'Request new features or options. Please search for existing issues first. Also see CONTRIBUTING.'
 title: '[FR] <title>'
 labels: 'feature-request'

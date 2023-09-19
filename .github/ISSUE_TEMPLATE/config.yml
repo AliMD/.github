@@ -4,10 +4,10 @@ contact_links:
     url: https://github.com/AliMD/alwatr/discussions
     about: Please ask and answer questions here.
 
-  - name: Security Bug Bounty
+  - name: Security bug bounty
     url: 'https://t.me/AlwatrSupport'
     about: Please report security vulnerabilities here.
 
-  - name: Contact US
+  - name: Contact up
     url: 'https://t.me/AlwatrSupport'
     about: Direct contact to Alwatr support team at Telegram.
